@@ -1,0 +1,2 @@
+http://192.168.178.33:32400/playlists/PLAYLISTID1/items?X-Plex-Token=USERTOKEN1
+http://192.168.178.33:32400/playlists/PLAYLISTID2/items?X-Plex-Token=USERTOKEN2
