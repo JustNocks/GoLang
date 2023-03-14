@@ -2,9 +2,10 @@
 
 PLEX playlist compare for two users
 
-Create folder named "data" and in it urls.txt
-http://localIP:32400/playlists/PLAYLISTID1/items?X-Plex-Token=USERTOKEN1
-http://localIP:32400/playlists/PLAYLISTID2/items?X-Plex-Token=USERTOKEN2
+Create folder named "data" and in it urls.txt 
+
+  http://localIP:32400/playlists/PLAYLISTID1/items?X-Plex-Token=USERTOKEN1 //
+  http://localIP:32400/playlists/PLAYLISTID2/items?X-Plex-Token=USERTOKEN2
 
 each url with token in its own row
 
